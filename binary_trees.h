@@ -31,3 +31,7 @@ typedef struct binary_tree_s bst_t;
 /*AVL Tree*/
 typedef struct binary_tree_s avl_t;
 /*Max Binary Heap*/
+
+void binary_tree_print(const binary_tree_t *);
+
+#endif
